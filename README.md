@@ -1,4 +1,9 @@
-![ascii-animation (2)](https://github.com/user-attachments/assets/656a49c8-724e-40d3-b526-98aef860b997)
+<div align="center">
+  
+![ascii-animation (3)](https://github.com/user-attachments/assets/79cf6edc-7da2-4c56-9750-90c3bb1b8d5b)
+
+</div>
+
 
 <div align="center">
   
