@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="4382" height="284" alt="ascii-art-text" src="https://github.com/user-attachments/assets/b241d4c3-7a82-4300-a57a-aa22a3d5b5e7" />
 
 <!--
 **CarterDaly/CarterDaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
